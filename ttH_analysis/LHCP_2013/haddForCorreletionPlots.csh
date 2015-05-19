@@ -1,0 +1,8 @@
+
+hadd -f dilSummaryTrees_zjets_lowmass_2012_53x_latest_all.root dilSummaryTrees_zjets_lowmass_part*_2012_53x_latest_all.root
+hadd -f dilSummaryTrees_zjets_2012_53x_latest_all.root dilSummaryTrees_zjets_*p_part*_2012_53x_latest_all.root
+hadd -f dilSummaryTrees_wjets_2012_53x_latest_all.root dilSummaryTrees_wjets_*_2012_53x_latest_all.root
+hadd -f dilSummaryTrees_ttbar_b_2012_53x_latest_all.root dilSummaryTrees_ttbar_b_*latest_all*
+hadd -f dilSummaryTrees_ttbar_2012_53x_latest_all.root dilSummaryTrees_ttbar_l*latest_all* dilSummaryTrees_ttbar_jj_2012_53x_latest_all.root
+hadd -f dilSummaryTrees_ttbar_bb_2012_53x_latest_all.root dilSummaryTrees_ttbar_bb_*latest_all*
+hadd -f dilSummaryTrees_ttbar_cc_2012_53x_latest_all.root dilSummaryTrees_ttbar_cc_*latest_all*
